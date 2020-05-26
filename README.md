@@ -1,2 +1,3 @@
-# startgit
-Introduction to github
+# Introduction to github
+
+My first git repository.
